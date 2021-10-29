@@ -1,0 +1,7 @@
+{
+    "name": "discordBotTimeframeScheduler",
+    "version": "0.0.1",
+    "main": "bot.js",
+    "author": "Kevin Hendrickx (BlockChainBullfrog)",
+    "dependencies": {}
+}
