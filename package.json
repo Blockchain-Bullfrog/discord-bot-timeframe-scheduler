@@ -3,5 +3,9 @@
     "version": "0.0.1",
     "main": "bot.js",
     "author": "Kevin Hendrickx (BlockChainBullfrog)",
-    "dependencies": {}
+    "type": "module",
+    "dependencies": {
+        "discord.js": "^13.3.0",
+        "dotenv": "^10.0.0"
+    }
 }
